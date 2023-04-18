@@ -1,0 +1,14 @@
+/* TODO: Set appropriate background image and heading size */
+
+.wrapper {
+  width: 100%;
+  height: 100%;
+
+  text-align:center;
+  vertical-align: middle;
+  line-height: 864px;
+}
+
+.heading {
+  color: #FFFFFF;
+}
